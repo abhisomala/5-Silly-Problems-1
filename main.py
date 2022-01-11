@@ -1,5 +1,5 @@
-weekday = input ("Is it a weekday? Please capatlize Yes or No:  ")
-vacation = input ("Is today a vacation? Please captilize Yes or No:  ")
+weekday = input ("Is it a weekday? Please capatlize first letter! Yes or No:  ")
+vacation = input ("Is today a vacation? Please captilize first letter! Yes or No:  ")
 #Asking if weekday and if vacation and assigning to variable
 
 if weekday == 'No' or vacation == 'Yes':
